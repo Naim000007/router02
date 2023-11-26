@@ -1,0 +1,11 @@
+nav a{
+    margin-right: 15px;
+    font-size: 2vw;
+    text-decoration: none;  
+    margin: 3vh;
+    color: white;
+}
+nav{
+    /* background-color: rebeccapurple; */
+    margin-right: 16vw;
+}

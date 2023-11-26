@@ -1,0 +1,15 @@
+.home-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 10px;
+    margin-top: 30px;
+}
+*{
+    background-color: rgb(30,30,30);
+    color: white;
+  }
+.t-shirts-container{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    gap: 15px;
+}
